@@ -157,7 +157,7 @@ Accuracy: 1.0
 **Title:** Implementation of K-Means Clustering Algorithm
 
 **Output:**
-*(Add your K-Means cluster plot screenshot here)*
+![BFS Output](Ex9-Figure.png)
 
 ---
 
