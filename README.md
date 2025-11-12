@@ -90,7 +90,7 @@ Intercept: [4.12]
 Mean Squared Error (MSE): 0.78
 R² Score: 0.95
 ```
-
+![](Ex4-Figure.png)
 ---
 
 ## ⚙️ Experiment 5: Backpropagation Algorithm
@@ -157,7 +157,7 @@ Accuracy: 1.0
 **Title:** Implementation of K-Means Clustering Algorithm
 
 **Output:**
-![BFS Output](Ex9-Figure.png)
+![](Ex9-Figure.png)
 
 ---
 
