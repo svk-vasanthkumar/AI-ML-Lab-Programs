@@ -163,6 +163,4 @@ Accuracy: 1.0
 
 ## 🧑‍💻 Author
 **Vasanthkumar (SVK)**  
-_Adhiyamaan College of Engineering_  
-Department of Information Technology
 
